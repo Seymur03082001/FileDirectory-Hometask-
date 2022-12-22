@@ -1,0 +1,15 @@
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\bin\Debug\net6.0\File,Directory.exe
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\bin\Debug\net6.0\File,Directory.deps.json
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\bin\Debug\net6.0\File,Directory.runtimeconfig.json
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\bin\Debug\net6.0\File,Directory.dll
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\bin\Debug\net6.0\File,Directory.pdb
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\obj\Debug\net6.0\File,Directory.csproj.AssemblyReference.cache
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\obj\Debug\net6.0\File,Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\obj\Debug\net6.0\File,Directory.AssemblyInfoInputs.cache
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\obj\Debug\net6.0\File,Directory.AssemblyInfo.cs
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\obj\Debug\net6.0\File,Directory.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\obj\Debug\net6.0\File,Directory.dll
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\obj\Debug\net6.0\refint\File,Directory.dll
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\obj\Debug\net6.0\File,Directory.pdb
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\obj\Debug\net6.0\File,Directory.genruntimeconfig.cache
+C:\Users\ca.r215.07\Desktop\File,Directory\File,Directory\obj\Debug\net6.0\ref\File,Directory.dll
